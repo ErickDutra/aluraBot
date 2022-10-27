@@ -7,3 +7,5 @@
  para executar o arquivo deve ser enviado no terminal o seguinte comando:
  
  scrapy runspider .\alurabot.py
+
+vai puxar todas as informações, junto ao link do curso.
